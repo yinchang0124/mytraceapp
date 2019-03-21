@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="title_home">个人信息</string>
+    <string name="title_dashboard">扫一扫</string>
+    <string name="title_notifications">订单</string>
+
+    <!--address for buy and sell-->
+    <string name="info">信息</string>
+    <string name="buy_address">123456</string>
+    <string name="sell_address">654321</string>
+    <string name="buy_key">123456</string>
+    <string name="sell_key">654321</string>
+    <string name="balance">100ETH</string>
+    <string name="title_activity_value">ValueActivity</string>
+</resources>
